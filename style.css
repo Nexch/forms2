@@ -1,0 +1,44 @@
+* {
+ font-family: Arial;
+}
+
+.form_box {
+  border: 1px solid gray;
+  background-color: white;
+  text-align: center;
+  width: 380px;
+  padding: 30px;
+
+}
+.form_box h5{
+  text-align: center;
+  margin-bottom: 0;
+}
+.form_box p {
+  margin-top: 0;
+}
+.form_box a {
+  text-decoration: none;
+}
+
+form {
+  text-align: left;
+}
+
+input {
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 4px;
+  height: 30px;
+  border: 1px solid gray;
+
+}
+
+.csubmit {
+  height: 35px;
+  background-color: #0077C5;
+  color: white;
+  border-style: none;
+  border-radius: 4px;
+
+}
